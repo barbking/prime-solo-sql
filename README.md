@@ -35,7 +35,7 @@ We are creating a database with a single table (syntax_practice) and 8 records. 
 8. Click `OK` to create our database, table, and data!
 
 ## GitHub repo
-1. Create a GitHub repo named “prime-solo-sql”. 
+1. Create a GitHub repo named “prime-solo-sql”.
 2. Create a file called “solution.sql”. You will store your responses to the exercise questions here. NOTE: This is merely a text file with a .sql extension.
 
 # Exercise
@@ -49,7 +49,7 @@ For each of the following questions
 ```
 -- 0. Get all the users
 SELECT * FROM syntax_practice;
-```
+``` 
 
 # Tasks
 1. Get all users from Chicago.
